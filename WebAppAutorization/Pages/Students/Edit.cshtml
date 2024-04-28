@@ -1,0 +1,72 @@
+﻿@page
+@model WebAppAutorization.Pages.Students.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Student</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div>ModelOnly</div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div>All</div>
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <input type="hidden" asp-for="Student.Id" />
+            <div class="form-group">
+                <label asp-for="Student.Name" class="control-label"></label>
+                <input asp-for="Student.Name" class="form-control" />
+                <span asp-validation-for="Student.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Student.SerName" class="control-label"></label>
+                <input asp-for="Student.SerName" class="form-control" />
+                <span asp-validation-for="Student.SerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Student.TgNick" class="control-label"></label>
+                <input asp-for="Student.TgNick" class="form-control" />
+                <span asp-validation-for="Student.TgNick" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Student.Number" class="control-label"></label>
+                <input asp-for="Student.Number" class="form-control" />
+                <span asp-validation-for="Student.Number" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Student.DataTravell" class="control-label"></label>
+                <input asp-for="Student.DataTravell" class="form-control" />
+                <span asp-validation-for="Student.DataTravell" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Student.Privat" /> @Html.DisplayNameFor(model => model.Student.Privat)
+                </label>
+                <span asp-validation-for="Student.Privat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Student.Price" class="control-label"></label>
+                <input asp-for="Student.Price" class="form-control" />
+                <span asp-validation-for="Student.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+
+        <div id="menu-bar" class="fas fa-bars">
+            
+        </div>
+
+        <a href="index.html" class="logo"><span>T</span>ravel</a>
+        <nav class="navbar">
+            <a href="index.html">Главная</a>
+            <a href="profil.html">Профиль</a>
+            <a href="tours.html">Мои туры</a>
+            <a href="#packages">Страны</a>
+            <a href="dost.html">Доступные туры</a>
+        </nav>
+
+        <div  class="icons">
+            <img class="" src="/images/image3.png" alt="">
+        </div>
+
+        <form action="" class="search-bar-container">
+            <input type="search" id="search-bar" placeholder="Search here...">
+            <label for="search-bar"></label>
+        </form>
+    </header>
+
+    <div class="login-form-container">
+
+        <i class="fas fa-time" id="form-close"></i>
+
+        <form action="">
+            <h3>Логин</h3>
+            <input type="email" class="box" placeholder="Enter your email.">
+            <input type="password" class="box" placeholder="Enter your password.">
+            <input type="submit" value="Login now" class="btn">
+            <input type="checkbox" id="remember">
+            <label for="remember">Запомнить меня</label>
+            <p>Забыли пароль? <a href="#">Нажмите здесь</a></p>
+            <p>У вас нет аккаунта? <a href="#">Зарегестрируйтесь сейчас</a></p>
+        </form>
+    </div>
+
+    <section class="home" id="home">
+        <div class="content">
+            <h3>Путешествия того стоят</h3>
+            <p>Открывайте новые места вместе с нами, вас ждут приключения</p>
+            <a href="#" class="btn">Узнать больше</a>
+        </div>
+
+        <div class="controls">
+            <span class="vid-btn active" data-src="images/vid-1.mp4" ></span>
+            <span class="vid-btn" data-src="images/vid-2.mp4" ></span>
+            <span class="vid-btn" data-src="images/vid-3.mp4" ></span>
+            <span class="vid-btn" data-src="images/vid-4.mp4" ></span>
+            <span class="vid-btn" data-src="images/vid-5.mp4" ></span>
+        </div>
+
+        <div class="foto-container">
+            <img src="https://catherineasquithgallery.com/uploads/posts/2023-01/1674254773_catherineasquithgallery-com-p-les-na-fone-serogo-neba-foto-39.jpg" id="foto-slider">
+        </div>
+    </section>
+
+    <section class="pakages" id="pakages">
+
+        <h1 class="heading">
+            <span>С</span>
+            <span>т</span>
+            <span>р</span>
+            <span>а</span>
+            <span>н</span>
+            <span>ы</span>
+        </h1>
+
+    <div class="box-container">
+        
+        <div class="box">
+            <a href="#"><img class="images_countri" src="https://i.postimg.cc/kgScKJv6/Russia.jpg" alt=""></a>
+            <div class="content">
+                <div class="i_b">
+                    <h3><i class="fas fa-map-market-alt"></i>Россия</h3>
+                </div>
+                <p>Россия-отличная страна для её посещения! При поездке сюда,вы можете узнать традиции многих народов России, увидеть знаменитую Красную Площадь и многое другое,что вам обязательно понравится!</p>
+                <div class="price">4000 ₽</div>
+            </div>
+        </div>
+
+        <div class="box">
+            <a href="#"><img class="images_countri" src="https://i.postimg.cc/zf1kksxd/France.jpg" alt=""></a>
+            <div class="content">
+                <div class="i_b">
+                    <h3><i class="fas fa-map-market-alt"></i>Франция</h3>
+                </div>
+                <p>Франция-прекрасная страна дляеё посещения. Тут вы можете увидеть знаменитую Эйфелеву башню.</p>
+                <div class="price">6000 ₽</div>
+            </div>
+            
+            <div class="box">
+                <a href="#"><img class="images_countri" src="https://i.postimg.cc/dtp6hkrc/usa.jpg" alt=""></a>
+                <div class="content">
+                    <div class="i_b">
+                        <h3><i class="fas fa-map-market-alt"></i>Америка</h3>
+                    </div>
+                    <p>Америка - очень интересная страна для посещения. Тут есть знаменитая Статуя Свободы и многое другое.</p>
+                    <div class="price">11000 ₽</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    </section>
+
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+<style>
+import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+:root{
+  --orange:#ffa500;
+}
+
+*{
+  font-family: 'Nunito', sans-serif;
+  margin: 0; padding: 0;
+  box-sizing: border-box;
+  text-transform: capitalize;
+  outline: none; border: none;
+  text-decoration: none;
+  transition: all 0.2s linear;
+}
+
+*::selection{
+  background: var(--orange);
+  color: #fff;
+}
+
+html{
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-padding-top: 6rem;
+  scroll-behavior: smooth;
+}
+
+section{
+  padding: 2rem 9%;
+}
+
+.btn{
+  display: inline-block;
+  margin-top: 1rem;
+  background: var(--orange);
+  color: #fff;
+  padding: 0.8rem 3rem;
+  border: 0.2rem solid var(--orange);
+  cursor: pointer;
+  font-size: 1.7rem;
+}
+
+.btn:hover{
+  background: rgba(255,165,0,0.2);
+  color: var(--orange);
+}
+
+header{
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  background: #333;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 9%;
+}
+
+header .logo{
+  font-size: 2.5rem;
+  font-weight: bolder;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+header .logo span{
+  color: var(--orange);
+}
+
+header .navbar a{
+  color: #fff;
+  font-size: 2rem;
+  margin: 0.8rem;
+}
+
+header .navbar a:hover{
+  color: var(--orange);
+}
+
+header .icons i{
+  font-size: 2.5rem;
+  color: #fff;
+  cursor: pointer;
+  margin-right: 2rem;
+}
+
+header .icons i:hover{
+  color: var(--orange);
+}
+
+header .search-bar-container{
+  position: absolute;
+  top: 100%; left: 0; right: 0;
+  padding: 1.5rem 2rem;
+  background: #333;
+  border-top: 0.1rem solid rgba(255, 255, 255, 0.2);
+  display: flex;
+  align-items: center;
+  z-index: 1001;
+  clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+}
+
+header .search-bar-container.active{
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+
+header .search-bar-container #search-bar{
+  width: 100%;
+  padding: 1rem;
+  text-transform: none;
+  color: #333;
+  font-size: 1.7rem;
+  border-radius: 0.5rem;
+}
+
+header .search-bar-container label{
+  color: #fff;
+  cursor: pointer;
+  font-size: 3rem;
+  margin-left: 1.5rem;
+}
+
+header .search-bar-container label:hover{
+  color: var(--orange);
+}
+
+.login-form-container{
+  position: fixed;
+  top: -120%; left: 0;
+  z-index: 10000;
+  min-height: 100vh;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login-form-container.active{
+  top: 0;
+}
+
+.login-form-container form{
+  margin: 2rem;
+  padding: 1.5rem 2rem;
+  border-radius: 0.5rem;
+  background: #fff;
+  width: 50rem;
+}
+
+.login-form-container form h3{
+  font-size: 3rem;
+  color: #444;
+  text-transform: unset;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.login-form-container form .box{
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.7em;
+  color:#333;
+  margin: 0.6rem 0;
+  border: 0.1rem solid rgba(0, 0, 0, 0.3);
+  text-transform: none;
+}
+
+.login-form-container form .box:focus{
+  border-color: var(--orange);
+}
+
+.login-form-container form #remember{
+  margin:2rem 0;
+}
+
+.login-form-container form label{
+  font-size: 1.5rem;
+}
+
+.login-form-container form .btn{
+  display: block;
+  width: 100%;
+}
+
+.login-form-container form p{
+  padding: 0.5rem 0;
+  font-size: 1.5rem;
+  color: #666;
+}
+
+.login-form-container form p a{
+  color: var(--orange);
+}
+
+.login-form-container form p a:hover{
+  color: #333;
+  text-decoration: underline;
+}
+
+.login-form-container form #form-close{
+  position: absolute;
+  top: 2rem; right: 3rem;
+  font-size: 5rem;
+  color: #fff;
+  cursor: pointer;
+}
+
+#menu-bar{
+  color: #fff;
+  border: 0.1rem solid #fff;
+  border-radius: 0.5rem;
+  font-size: 3rem;
+  padding: 0.5rem 1.2rem;
+  display: none;
+}
+
+.home{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  position: relative;
+  z-index: 0;
+}
+
+.home .content{
+  text-align: center;
+}
+
+.home .content h3{
+  font-size: 4.5rem;
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+.home .content p{
+  font-size: 2.5rem;
+  color: #fff;
+  padding: 0.5rem 0;
+}
+
+
+#foto-slider{
+  position: absolute;
+  left: 0; top: 0;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.images_countri{
+  width: 700px;
+  height: 350px;
+}
+
+.price{
+  font-size: 20px;
+}
+
+.i_b{
+  margin: 5px 0 10px 0;
+}
+
+h3{
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+  font-size: 15px;
+}
+
+.fa-star{
+  font-size: 15px;
+}
+
+.box{
+  margin-top: 80px;
+}
+
+.stars{
+  margin: 15px 0 10px 0;
+}
+
+.pakages .box-container{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.pakages .box-container .box{
+  font: 1 1 30rem;
+}
+
+
+media(max-width:1200px){
+
+  html{
+    font-size: 55%;
+  }
+
+}
+
+media(max-width:991px){
+
+  header{
+    padding: 2rem;
+  }
+
+}
+
+media(max-width:768px){
+
+  #menu-bar{
+    display: initial;
+  }
+
+  header .navbar{
+    position: absolute;
+    top: 100%; right: 0; left: 0;
+    background: #333;
+    border-top:  0.1rem solid rgba(255, 255, 255, 0.2);
+    padding: 1rem 2rem;
+    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
+  }
+
+  header .navbar.active{
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  }
+
+  header .navbar a{
+    display: block;
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+    margin: 1.5rem 0;
+    background: #222;
+  }
+
+}
+
+  media (max-width:450px){
+
+    html{
+      font-size: 50%;
+    }
+
+  }
+
+</style>
+

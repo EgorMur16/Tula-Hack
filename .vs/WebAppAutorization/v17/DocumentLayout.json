@@ -1,0 +1,919 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\autorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\autorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\html\\dost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\html\\dost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\html\\profil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\html\\profil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\html\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\html\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\tures2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\tures2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\models\\validators\\firstcapitalattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\models\\validators\\firstcapitalattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\models\\validators\\nameaxistattribut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\models\\validators\\nameaxistattribut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\egorm\\AppData\\Local\\Temp\\.vsdbgsrc\\3c7a98805ac91f33af875f921067a4fbaebd8ed3\\Pages_Tures_cshtml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\html\\tours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\html\\tours.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\userprofille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\userprofille.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\sevices\\email\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\sevices\\email\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\models\\nameexistsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\models\\nameexistsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\models\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\models\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\20240425151826_new table students.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\20240425151826_new table students.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\20240425151826_new table students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\20240425151826_new table students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\20240425151738_new table student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\20240425151738_new table student.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\20240425151738_new table student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\20240425151738_new table student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\20240426221902_tg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\20240426221902_tg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\pages\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\20240426214110_sername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\20240426214110_sername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\20240426213631_reverse table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\20240426213631_reverse table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|c:\\users\\egorm\\source\\repos\\webappautorization\\webappautorization\\data\\migrations\\20240426210410_pivate and datatravell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647FCBC-9D98-49FC-9D2A-F4A907CB6D2E}|WebAppAutorization\\WebAppAutorization.csproj|solutionrelative:webappautorization\\data\\migrations\\20240426210410_pivate and datatravell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T15:27:27.709Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tures2.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Tures2.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Tures2.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Tures2.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Tures2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T08:23:19.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Program.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Program.cs",
+              "RelativeToolTip": "WebAppAutorization\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:41:03.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dost.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\html\\dost.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\html\\dost.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\html\\dost.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\html\\dost.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T07:48:04.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\html\\index.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\html\\index.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\html\\index.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\html\\index.cshtml",
+              "ViewState": "AQIAAMsBAAAAAAAAAAAswOEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T07:48:06.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "profil.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\html\\profil.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\html\\profil.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\html\\profil.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\html\\profil.cshtml",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAAAMwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T08:03:56.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorizeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\AutorizeAttribute.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\AutorizeAttribute.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\AutorizeAttribute.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\AutorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:03:51.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwC8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:03:38.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NameAxistAttribut.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\Validators\\NameAxistAttribut.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Models\\Validators\\NameAxistAttribut.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\Validators\\NameAxistAttribut.cs",
+              "RelativeToolTip": "WebAppAutorization\\Models\\Validators\\NameAxistAttribut.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:39:27.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FirstCapitalAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\Validators\\FirstCapitalAttribute.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Models\\Validators\\FirstCapitalAttribute.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\Validators\\FirstCapitalAttribute.cs",
+              "RelativeToolTip": "WebAppAutorization\\Models\\Validators\\FirstCapitalAttribute.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T19:18:23.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:03:57.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Index.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T21:00:55.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\UserProfile.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\UserProfile.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\UserProfile.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:14:01.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pages_Tures_cshtml.g.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\AppData\\Local\\Temp\\.vsdbgsrc\\3c7a98805ac91f33af875f921067a4fbaebd8ed3\\Pages_Tures_cshtml.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3c7a98805ac91f33af875f921067a4fbaebd8ed3\\Pages_Tures_cshtml.g.cs",
+              "ToolTip": "C:\\Users\\egorm\\AppData\\Local\\Temp\\.vsdbgsrc\\3c7a98805ac91f33af875f921067a4fbaebd8ed3\\Pages_Tures_cshtml.g.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3c7a98805ac91f33af875f921067a4fbaebd8ed3\\Pages_Tures_cshtml.g.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:32:21.117Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Profile.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Profile.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Profile.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwM4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T08:14:07.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "tours.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\html\\tours.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\html\\tours.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\html\\tours.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\html\\tours.cshtml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAGMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-28T08:23:33.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Models\\StudentModel.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\StudentModel.cs",
+              "RelativeToolTip": "WebAppAutorization\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:18:21.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Student.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Student.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Student.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Student.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:51:28.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserProfille.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\UserProfille.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\UserProfille.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\UserProfille.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\UserProfille.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T08:14:12.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:46:36.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Index.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Index.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:22:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Sevices\\Email\\EmailSender.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Sevices\\Email\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Sevices\\Email\\EmailSender.cs",
+              "RelativeToolTip": "WebAppAutorization\\Sevices\\Email\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:09:48.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:04:15.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:53:44.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:04:16.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Delete.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:48:42.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:06:14.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:46:55.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Create.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:48:48.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Details.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:48:33.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Edit.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T16:09:05.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:03:54.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:03:52.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Error.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T16:03:55.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "NameExistsAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\NameExistsAttribute.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Models\\NameExistsAttribute.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\NameExistsAttribute.cs",
+              "RelativeToolTip": "WebAppAutorization\\Models\\NameExistsAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:57:25.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Models\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Models\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "WebAppAutorization\\Models\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA1wAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:55:49.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240425151826_New table Students.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240425151826_New table Students.Designer.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\20240425151826_New table Students.Designer.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240425151826_New table Students.Designer.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\20240425151826_New table Students.Designer.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwGcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:39:55.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240425151826_New table Students.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240425151826_New table Students.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\20240425151826_New table Students.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240425151826_New table Students.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\20240425151826_New table Students.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:39:48.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240425151738_New table Student.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240425151738_New table Student.Designer.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\20240425151738_New table Student.Designer.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240425151738_New table Student.Designer.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\20240425151738_New table Student.Designer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:39:20.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20240425151738_New table Student.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240425151738_New table Student.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\20240425151738_New table Student.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240425151738_New table Student.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\20240425151738_New table Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:38:49.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240426221902_Tg.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240426221902_Tg.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\20240426221902_Tg.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240426221902_Tg.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\20240426221902_Tg.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T22:19:02.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Edit.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Edit.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwCgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-25T17:49:13.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Details.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Details.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAjwCQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T20:58:47.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Delete.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Delete.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwCcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T20:58:24.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Pages\\Students\\Create.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Pages\\Students\\Create.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Pages\\Students\\Create.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAuwB0AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T20:57:37.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:45:06.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:43:19.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240426214110_SerName.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240426214110_SerName.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\20240426214110_SerName.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240426214110_SerName.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\20240426214110_SerName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:41:10.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "WebAppAutorization\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:28:26.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20240426213631_Reverse Table.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240426213631_Reverse Table.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\20240426213631_Reverse Table.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240426213631_Reverse Table.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\20240426213631_Reverse Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:36:31.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T21:28:15.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T21:28:11.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T21:28:10.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebAppAutorization\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-26T21:28:09.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20240426210410_Pivate and DataTravell.cs",
+              "DocumentMoniker": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240426210410_Pivate and DataTravell.cs",
+              "RelativeDocumentMoniker": "WebAppAutorization\\Data\\Migrations\\20240426210410_Pivate and DataTravell.cs",
+              "ToolTip": "C:\\Users\\egorm\\source\\repos\\WebAppAutorization\\WebAppAutorization\\Data\\Migrations\\20240426210410_Pivate and DataTravell.cs",
+              "RelativeToolTip": "WebAppAutorization\\Data\\Migrations\\20240426210410_Pivate and DataTravell.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T21:04:10.203Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

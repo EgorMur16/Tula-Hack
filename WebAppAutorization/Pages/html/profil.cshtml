@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style_prof.css">
+</head>
+<body>
+    <header>
+
+        <div id="menu-bar" class="fas fa-bars">
+        </div>
+
+        <a href="index.html" class="logo"><span>T</span>ravel</a>
+        <nav class="navbar">
+            <a href="index.html">Главная</a>
+            <a href="profil.html">Профиль</a>
+            <a href="tours.html">Мои туры</a>
+            <a href="#packages">Страны</a>
+            <a href="dost.html">Доступные туры</a>
+        </nav>
+
+        <div class="icons">
+            <img class="" src="/images/image3.png" alt="">
+        </div>
+        <form action="" class="search-bar-container">
+            <input type="search" id="search-bar" placeholder="Search here...">
+            <label for="search-bar"></label>
+        </form>
+    </header>
+    <!-- <div class="zalupa">
+        <h3>Логин</h3>
+        <div class="e_p">
+            <input type="email" class="box" placeholder="Enter your email.">
+            <input type="password" class="box" placeholder="Enter your password.">
+        </div>
+        <input type="submit" value="Login now" class="btn">
+        <input type="checkbox" id="remember">
+        <label for="remember">Запомнить меня</label>
+        <p>Забыли пароль? <a href="#">Нажмите здесь</a></p>
+        <p>У вас нет аккаунта? <a href="#">Зарегестрируйтесь сейчас</a></p>
+    </div> -->
+    <section id="profil_main">
+        <div class="schapka">
+            <img class="foto_profil" src="https://i.postimg.cc/28VTjFqx/image-8.png" alt="">
+            <div class="fio">
+                <h3>Имя:</h3>
+                <h3>Фамилия:</h3>
+                <h3>Дата рождения:</h3>
+                <h3>Город:</h3>
+            </div>
+        </div>
+        <button class="btnn" href='#' onclick="document.getElementById('profil_main').style.display='none'; document.getElementById('profil_main_red').style.display='block';">Редактировать</button>
+        <div class="dop_info">
+            <h1>О себе</h1>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates mollitia reprehenderit enim distinctio debitis sed itaque obcaecati numquam asperiores recusandae perferendis, quidem facilis iste minus maiores error explicabo iusto? Adipisci esse tempore nihil architecto. Repellendus nam reiciendis voluptatibus facilis doloremque quod, voluptatem perferendis, sed rem dolor tempore hic culpa, quia magnam? Atque impedit iusto sunt voluptatem aut, reprehenderit illum ducimus placeat voluptatum, ea fugit quaerat, dolores perspiciatis magni optio repellendus!
+        </div>
+        <div class="profil_niz">
+            <h3>Номер телефона:</h3>
+            <h3>Telegram:</h3>
+        </div>
+    </section>
+
+    <section id="profil_main_red" style='display: none'>
+        <div class="schapka">
+            <img class="foto_profil" src="https://i.postimg.cc/28VTjFqx/image-8.png" alt="">
+            <div class="fio">
+                <div class="imja"><h3>Имя:</h3><input class="input" type="text"></div>
+                <div class="familia"><h3>Фамилия:</h3><input class="input" type="text"></div>
+                <div class="data_rozd"><h3>Дата рождения:</h3><input class="input" type="text"></div>
+                <div class="gorod"><h3>Город:</h3><input class="input" type="text"></div>
+            </div>
+        </div>
+        <button class="btnn" href='#' onclick="document.getElementById('profil_main_red').style.display='none'; document.getElementById('profil_main').style.display='block';">Сохранить</button>
+        <div class="dop_info_reg">
+            <h1>О себе</h1>
+            <input class="dop_info_reg_txt" type="text">
+        </div>
+        <div class="profil_niz_reg">
+            <div class="number_tel"><h3>Номер телефона:</h3><input class="input" type="text"></div>
+            <div class="tg"><h3>Telegram:</h3>><input class="input" type="text"></div>
+        </div>
+    </section>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+<style>
+    #profil_main {
+        margin-top: 100px;
+    }
+
+    #profil_main_red {
+        margin-top: 100px;
+    }
+
+    .foto_profil {
+        width: 260px;
+        height: 260px;
+    }
+
+    .schapka {
+        display: flex;
+    }
+
+    .familia {
+        display: flex;
+    }
+
+    .data_rozd {
+        display: flex;
+    }
+
+    .imja {
+        display: flex;
+    }
+
+    .gorod {
+        display: flex;
+    }
+
+    .profil_niz {
+        display: flex;
+        gap: 400px;
+    }
+
+    .profil_niz_reg {
+        display: flex;
+        gap: 250px;
+    }
+
+    .number_tel {
+        display: flex;
+    }
+
+    .tg {
+        display: flex;
+    }
+
+    .input {
+        margin: 10px;
+        background-color: #e4e4e4;
+        border: 1;
+        border-radius: 10px;
+        border-color: #b4b4b4;
+        height: 30px;
+    }
+
+    .dop_info_reg_txt {
+        margin: 20px;
+        background-color: #e4e4e4;
+        border: 1;
+        border-radius: 10px;
+        border-color: #b4b4b4;
+        width: 100%;
+        height: 30px;
+    }
+
+    .btnn {
+        display: inline-block;
+        margin: 20px;
+        background: var(--orange);
+        color: #fff;
+        padding: 0.8rem 3rem;
+        border: 0.2rem solid var(--orange);
+        cursor: pointer;
+        border-radius: 10px;
+        font-size: 1.7rem;
+    }
+
+        .btnn:hover {
+            background: rgba(255,165,0,0.2);
+            color: var(--orange);
+        }
+
+    .profil_niz_reg {
+        margin-top: 20px;
+    }
+
+    .profil_niz {
+        margin-top: 45px;
+    }
+
+    .fio {
+        margin-left: 30px;
+    }
+
+    .fio_reg {
+        margin-left: 30px;
+    }
+
+    /* .zalupa{
+        position: absolute;
+        z-index: 1;
+        background-color: #333333a6;
+        width: 100%;
+        height: 80%;
+        text-align: center;
+    }
+     */
+
+</style>
